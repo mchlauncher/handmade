@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "handmade"
+title = "가내수공업"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/mchlauncher/handmade"
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/handmade"
 supportLink = "https://github.com/mchlauncher/handmade/issues"
 
 [ejs.welcome]
-welcomeHeader = "handmade"
-welcomeDescription = "1 줄.<br>2 줄.<br>3 줄."
+welcomeHeader = "가내수공업"
+welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."
