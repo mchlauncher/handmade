@@ -2,7 +2,7 @@ appId: 'handmade'
 productName: '가내수공업'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2025 gotiger (original author: © 2018-2025 Daniel Scalzi)'
+copyright: 'Copyright © 2025-2026 gotiger (original author: © 2018-2026 Daniel Scalzi)'
 
 asar: true
 compression: 'maximum'
